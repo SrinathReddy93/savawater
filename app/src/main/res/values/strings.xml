@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SaveWater</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Exit</string>
+    <string name="UserName">User name</string>
+    <string name="UserPassword">Password</string>
+    <string name="UserLogin">Login</string>
+    <string name="enter">Enter your</string>
+    <string name="title_activity_main_activity2">SaveWater</string>
+    <string name="first_mesg">LEAKAGE HAPPENING PLEASE OPEN APPLICATION AND PRESS STOP BUTTON</string>
+    <string name="second_mesg">LEAK IN INNER PIPE PLEASE OPEN APPLICATION AND PRESS STOP BUTTON</string>
+
+    <string name="our_guides">Our Guides</string>
+    <string name="title_section1">How-to-use</string>
+    <string name="title_section2">Test</string>
+    <string name="title_section3">Guides</string>
+    <string name="title_section4">About us</string>
+    <string name="title_section5">STOP</string>
+    <string name="title_section6">OPEN</string>
+    <string name="title_section7">Exit</string>
+      <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">""</string>
+    <string name="title_activity_exm">Exm</string>
+</resources>
