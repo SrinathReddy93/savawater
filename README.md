@@ -10,5 +10,6 @@ was developed for controlling the automated device. The Application was develope
 Studio Environment with a minimum API level 14 ( Jelly bean).The app uses SMS to
 communicate with the automated system.
 
+APK file : https://drive.google.com/file/d/0B33MixGqFHwYa2NZTF9PbEtVbzA/view?usp=sharing
 
 Youtube : https://www.youtube.com/watch?v=36K06toxdb4
